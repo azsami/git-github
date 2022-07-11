@@ -1,2 +1,3 @@
 # git-github
-any thing
+So, im practicing the function of git
+
